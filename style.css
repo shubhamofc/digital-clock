@@ -1,0 +1,37 @@
+*{
+    padding:0px;
+    margin:0;
+    box-sizing: border-box;
+}
+body{
+    background: white;
+}
+.main{
+    background: #ccc;
+    width: 400px;
+    margin: 100px auto;
+    height: 175px;
+}
+.badge{
+    background: #e66357;
+    width: fit-content;
+    padding: 20px 5px;
+    color: white;
+    font-family: 'Orbitron', sans-serif;
+    font-weight: bold;
+    width: 96px;
+    position: relative;
+    top: -10px;
+    left: 40%;
+    border-radius: 4px;
+}
+
+.clock{
+    background-color: #ebebeb;
+    margin: 25px;
+    padding: 15px 15px;
+    text-align: center;
+    font-size: 55px;
+    height: 60%;
+    font-family: 'Orbitron', sans-serif
+}
